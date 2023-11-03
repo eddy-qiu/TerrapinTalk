@@ -15,6 +15,15 @@ def CustomChatGPT(user_input):
     messages.append({"role": "assistant", "content": ChatGPT_reply})
     return ChatGPT_reply
 
-demo = gradio.Interface(fn=CustomChatGPT, inputs = "text", outputs = "text", title = "TerrapinTalk")
+theme_red = gradio.themes.Soft(
+    primary_hue="red",
+    secondary_hue="red",
+)
+
+demo = gradio.Interface(theme=theme_red,
+                        fn=CustomChatGPT, 
+                        inputs="text", 
+                        outputs="text", 
+                        title="TerrapinTalk")
 
 demo.launch(share=True)
