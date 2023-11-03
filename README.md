@@ -20,7 +20,7 @@ I believe that my digital product/tool is...
 
 **Usable**: The MVP of this idea is very staightforward to use - through future iterations and development, this app could be even more user-friendly and aesthetic!  
 
-**Demo**:
+**Demo**: (Sorry, the model currently takes a while to response because it is running on an older/cheaper GPT model and is receiving prompting/scouring the web)
 ![Kapture 2023-11-03 at 11 02 29](https://github.com/eddy-qiu/TerrapinTalk/assets/97773835/bc977dd9-7cd4-4cf5-83f3-50dd1db3a1ff)
 
 Technologies used:  
