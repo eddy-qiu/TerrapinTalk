@@ -1,4 +1,4 @@
-# TerrapinTalk - [[Try it here!] UPDATE - my OpenAI API key was leaked on Huggingface and someone used all my credits 😅 - new link soon
+# TerrapinTalk - [Try it here!](https://huggingface.co/spaces/profayle/TerrapinTalk)
 TerrapinTalk is a OpenAI-powered mental health and wellness chatbot for use by UMD students. This web app was created for the Diamondhack by DBK at the University of Maryland, College Park.
 
 In light of recent stressors and academics, my vision for this chat bot was to create a product for use by students - for free - to have "someone" to talk to, ask for advice, and ask about the **various mental health resources avaialable at UMD**. This chat bot acts as a therapist as well as a friend to the student, who is open to listening and helping the student out with their mental and overall health.
@@ -21,7 +21,7 @@ I believe that my digital product/tool is...
 **Usable**: The MVP of this idea is very staightforward to use - through future iterations and development, this app could be even more user-friendly and aesthetic!  
 
 **Demo**: (Sorry, the model currently takes a while to respond because it is running on an older/cheaper GPT model and is receiving prompting/scouring the web)
-![Kapture 2023-11-03 at 11 02 29](https://github.com/eddy-qiu/TerrapinTalk/assets/97773835/bc977dd9-7cd4-4cf5-83f3-50dd1db3a1ff)
+![ezgif-5-6dc4588f02](https://github.com/eddy-qiu/TerrapinTalk/assets/97773835/f3739f67-0b1c-4702-a695-93943cebfda1)
 
 Technologies used:  
 Python, OpenAI API, Gradio, Huggingface
