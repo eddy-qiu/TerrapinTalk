@@ -1,6 +1,8 @@
 # TerrapinTalk - [Try it here!](https://huggingface.co/spaces/profayle/TerrapinTalk)
 TerrapinTalk is a OpenAI-powered mental health and wellness chatbot for use by UMD students. This web app was created for the Diamondhack by DBK at the University of Maryland, College Park.
 
+<img width="1280" alt="Screenshot 2024-01-18 at 1 38 29 PM" src="https://github.com/eddy-qiu/TerrapinTalk/assets/97773835/65ae4a04-c163-4d42-b5cc-c92655afca37">
+
 In light of recent stressors and academics, my vision for this chat bot was to create a product for use by students - for free - to have "someone" to talk to, ask for advice, and ask about the **various mental health resources avaialable at UMD**. This chat bot acts as a therapist as well as a friend to the student, who is open to listening and helping the student out with their mental and overall health.
 
 This app serves the information needs of the University of Maryland by providing instantaneous, prompted responses specifically trained on:
